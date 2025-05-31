@@ -1,2 +1,2 @@
 # WOW CRAZY
-<br><br><br>I only know snek and onshape language<br><br><br><-- tortel
+<br><br><br>I only know snek language and onshape language<br><br><br><-- tortel
