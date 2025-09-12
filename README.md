@@ -12,3 +12,4 @@
 ### Want to learn:
  - JS/TS
  - HTML
+ - lua
