@@ -1,10 +1,14 @@
 # WOW CRAZY
 <br><br><br>I only know snek language<br><br><br><-- tortel
+<br>
 
-Currently Learning:
+---
+<br>
+
+### Currently Learning:
  - Rust
- - how to Django
+ - how to 'tango' in 'Django' HAHHAHAHAHHAHAHAAHAHAHAHAHHOLYSHITIMSOFUNNYHHAHAHHAHAHAHA 
 
-Want to learn:
+### Want to learn:
  - JS/TS
  - HTML
