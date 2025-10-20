@@ -1,9 +1,7 @@
 # WOW CRAZY
 <br><br><br>I only know snek language
-<!-- 
 <br><br><br><-- tortel
 <br><br> 
--->
 
 ---
 
