@@ -1,5 +1,5 @@
 # WOW CRAZY
-![Page Visitors](https://count.getloli.com/@:larkin1?name=larkin1&theme=nixietube-1&padding=3&offset=0&align=center&scale=1&pixelated=1&darkmode=0)  
+![Page Visitors](https://count.getloli.com/@:larkin1?name=larkin1&theme=nixietube-1&padding=3&offset=0&align=center&scale=0.8&pixelated=1&darkmode=0)  
 <-- tortel
 <details>
  <summary><h2>Skillset & Goals</h2></summary>
