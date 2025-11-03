@@ -26,9 +26,12 @@
 
 </details>
 <details>
- <summary><h2>Stats</h2></summary>
+  <summary><h2>Stats</h2></summary>
 
-![Statistics](https://github-readme-stats.vercel.app/api?theme=tokyonight&show_icons=true&username=larkin1)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?theme=tokyonight&username=larkin1)
-
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?theme=tokyonight&show_icons=true&username=larkin1" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?theme=tokyonight&username=larkin1" height="160" />
+  </p>
 </details>
+
+
