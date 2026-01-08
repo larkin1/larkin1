@@ -32,6 +32,7 @@
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?theme=tokyonight&show_icons=true&username=larkin1" height="160" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?theme=tokyonight&username=larkin1" height="160" />
+    RIP stats
   </p>
 </details>
 
