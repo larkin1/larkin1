@@ -13,15 +13,16 @@
  <summary><h2>Skillset & Goals</h2></summary>
 
 ### I know:
- - Snek (py)
+ - Python
+ - How to breathe
 
 ### I'm learning:
- - Rust
+ - Rust (On hold because I want to actually be able to finish projects.)
+ - Go (Because I got sick of Rust)
 
 ### I would like to learn:
- - Django
- - JS/TS
- - HTML
+ - HTMX (Because SCREW React)
+ - JS/TS -> React (heh)
  - lua
 
 </details>
