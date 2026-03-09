@@ -21,8 +21,5 @@
  - Go (Because I got sick of Rust)
 
 ### I would like to learn:
- - HTMX (Because SCREW React)
- - JS/TS -> React (heh)
  - lua
-
-
+ - C/C++
