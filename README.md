@@ -17,7 +17,7 @@
  - How to breathe
 
 ### I'm learning:
- - Rust (On hold because I want to actually be able to finish projects.)
+ - Rust (For playing with microcontrollers)
  - Go (Because I got sick of Rust)
 
 ### I would like to learn:
