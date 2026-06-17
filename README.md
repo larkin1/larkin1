@@ -15,11 +15,13 @@
 ### I know:
  - Python
  - How to breathe
+ - how to linux (arch btw (for now))
 
 ### I'm learning:
  - Rust (For playing with microcontrollers)
  - Go (Because I got sick of Rust)
+ - lua
+ - nix & nixOS
 
 ### I would like to learn:
- - lua
  - C/C++
