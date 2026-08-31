@@ -22,6 +22,7 @@
  - Go (Because I got sick of Rust)
  - lua
  - nix & nixOS
+ - Quickshell/QML
 
 ### I would like to learn:
  - C/C++
