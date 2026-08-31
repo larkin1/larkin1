@@ -15,7 +15,7 @@
 ### I know:
  - Python
  - How to breathe
- - how to linux (arch btw (for now))
+ - how to linux (nixos (based))
 
 ### I'm learning:
  - Rust (For playing with microcontrollers)
