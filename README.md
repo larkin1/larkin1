@@ -1,28 +1,29 @@
-# Mega-Supreme Profile ReadMe of DOOM!!!11!!!!1
-<!--<p>
-  <img src="https://count.getloli.com/@larkin1?name=larkin1&theme=nixietube-1&padding=3&offset=0&align=center&scale=0.8&pixelated=1&darkmode=0"
-       alt="Page Visitors"
-       align="left" />
-
-  <br><br> ← Visits
-</p>
-
-<br clear="all" />
-← tortel-->
+Hey there!  
+I'm Larkin  
 <details>
- <summary><h2>Skillset & Goals</h2></summary>
-
+ <summary><h2>More</h2></summary>
+  
 ### I know:
- - Python
- - How to breathe
- - how to linux (nixos (based))
+Still trying to get better every day - but i know these well enough to be productive.
+| Item | Reasoning / Use case | Status |
+|---|---|---|
+| Python | First Language - my first projects were in py | Dormant |
+| CAD | My current & previous jobs were / are primarily CAD-based. I use Onshape. | Active |
+| Linux | Current Primary Operating System - I use this on all my devices including work ones. I've entirely removed Windows from all my devices. | Active |
 
 ### I'm learning:
- - Rust (For playing with microcontrollers)
- - Go (Because I got sick of Rust)
- - lua
- - nix & nixOS
- - Quickshell/QML
+Trying to get good enough to be productive in these.
+| Item | Reasoning / Use case | Status |
+|---|---|---|
+| Rust | Playing with micro-controllers & Getting closer to the hardware | Dormant |
+| Hardware & Electronics | For my Job & for playing around | Dormant |
+| Go | Backend & simple networking - involved | Active |
+| Lua | Configurations & simplicity | Intermittent |
+| Nix / Nixos | Declarative Linux is super nice. | Intermittent |
+| Quickshell | Desktop Configuration | Active |
 
 ### I would like to learn:
- - C/C++
+future focuses that would be cool to look into.
+| Item | Reasoning |
+|---|---|
+| C | Would be nice to learn C for legacy's sake |
