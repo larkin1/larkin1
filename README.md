@@ -17,10 +17,10 @@ Trying to get good enough to be productive in these.
 |---|---|---|
 | Rust | Playing with micro-controllers & Getting closer to the hardware | Dormant |
 | Hardware & Electronics | For my Job & for playing around | Dormant |
-| Go | Backend & simple networking - involved | Active |
-| Lua | Configurations & simplicity | Intermittent |
-| Nix / Nixos | Declarative Linux is super nice. | Intermittent |
-| Quickshell | Desktop Configuration | Active |
+| Go | Backend & simple programs | Active |
+| Lua | Configurations | Intermittent |
+| Nix / Nixos | Declarative Linux is super nice. | [Intermittent](https://github.com/larkin1/config.nixos) |
+| Quickshell | Desktop UI Configuration | [Active](https://github.com/larkin1/config.quickshell) |
 
 ### I would like to learn:
 future focuses that would be cool to look into.
